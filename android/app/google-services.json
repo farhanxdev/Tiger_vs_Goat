@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125685045533",
+    "project_id": "tiger-vs-goats",
+    "storage_bucket": "tiger-vs-goats.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125685045533:android:77bd709c13c784671469f4",
+        "android_client_info": {
+          "package_name": "com.example.tiger_vs_goat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXQInLLVQsfv7DDBQkCd4mE9gD_aF9BKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
